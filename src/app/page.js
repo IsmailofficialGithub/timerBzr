@@ -56,8 +56,7 @@ export default function Home() {
           src="/logo.png"
           alt="Logo"
           className="logo"
-          variants={titleVariants}
-          initial="hidden"/>
+          variants={titleVariants}/>
         <motion.h1 className="title" variants={titleVariants}>
           BachatBzr
         </motion.h1>
